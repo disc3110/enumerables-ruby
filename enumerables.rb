@@ -1,4 +1,4 @@
-git push --set-upstream origin feature# rubocop:disable Metrics/CyclomaticComplexity, Metrics/PerceivedComplexity
+# rubocop:disable Metrics/CyclomaticComplexity, Metrics/PerceivedComplexity
 # MY ENUMERABLES
 module Enumerable
   # my_all? ------------
